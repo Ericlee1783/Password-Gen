@@ -5,6 +5,7 @@ The main motivation behind this was to generate a webpage that would randomly co
 
 ## Installation
 https://github.com/Ericlee1783/Password-Gen This is the link to the actual code on Github
+https://ericlee1783.github.io/Password-Gen/ This is the link to the actual website.
 
 ## Usage
 ![Alt text](image.png) 
